@@ -21,7 +21,7 @@
 <p><code><a href="https://www.linkedin.com/in/petercoker/" title="LinkedIn Profile"><img width="22px" src="https://i.imgur.com/yRpa1dQ.png"> LinkedIn</a></code></p>
 
 <h3 align="left">📊 Stats</h3>
-<p><img  height="300" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /> </p>
+<p><img  height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /> </p>
 
 
 <h3 align="left">🎁 Supports</h3>
