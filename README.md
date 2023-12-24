@@ -23,6 +23,6 @@
 ## 🎁 Support
 If you like what I do, maybe consider buying me a book/coffee/tea 🥺👉👈
 <h2 align="center">
- <a href="https://www.buymeacoffee.com/petercoker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" ></a>
- <a href="https://ko-fi.com/petercoker"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"  alt="petercoker" /></a>
+ <a href="https://www.buymeacoffee.com/petercoker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" max-width="20" ></a>
+ <a href="https://ko-fi.com/petercoker"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"  alt="petercoker" max-width="20" /></a>
 </h2>
