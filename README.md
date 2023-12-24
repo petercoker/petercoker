@@ -6,7 +6,7 @@
 
 ### About me
 
-* 🎨 Software engineer, who loves solving real-world problems that improve people's lives.
+* 🎨 Software engineer, who loves building projects to solve real-world problems that improve people's lives.
 
 * 🎁 Open source enthusiast. Thanks to all the open-source contributors!
   
