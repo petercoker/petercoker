@@ -10,7 +10,7 @@
 
 * 🎁 Open source enthusiast. Thanks to all the open-source contributors!
   
-* ❤️ I love traveling to different countries and experiencing their cultures and festivals. Language learning is another passion of mine, and I am currently learning Spanish.
+* ❤️ I love traveling to experience different cultures and festivals. Language learning is another passion of mine, and I am currently learning Spanish.
 
 
 ### Feel free to contact me on:
