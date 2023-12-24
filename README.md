@@ -20,9 +20,6 @@
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=petercoker&show_icons=true&locale=en" alt="petercoker" /> |  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petercoker&" alt="petercoker" /></p>
-
 ## 🎁 Support
 If you like what I do, maybe consider buying me a book/coffee/tea 🥺👉👈
 <h2 align="center">
