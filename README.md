@@ -17,8 +17,9 @@
   </li>
 </ul>
 
-## 📬 Reach me at
-<code><a href="https://www.linkedin.com/in/petercoker/" title="LinkedIn Profile"><img width="22" src="https://i.imgur.com/yRpa1dQ.png"> LinkedIn</a></code>
+<h3 align="left">📬 Reach me at</h3>
+<p><code><a href="https://www.linkedin.com/in/petercoker/" title="LinkedIn Profile"><img width="22" src="https://i.imgur.com/yRpa1dQ.png"> LinkedIn</a></code></p>
+
 
 ## 📊 Stats
 
