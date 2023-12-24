@@ -1,10 +1,5 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Peter+Coker....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-<!--
 **petercoker/petercoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
 
 Here are some ideas to get you started:
 
@@ -17,6 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Peter+Coker....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 [![Github Follow](https://img.shields.io/github/followers/PeterCoker?label=Follow%20Me&style=social)](https://github.com/PeterCoker)
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
