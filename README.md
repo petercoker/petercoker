@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="left">👨‍💻 About Me:</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 <ul>
   <li>
     Software engineer, who loves building projects that solve real-world problems that improve people's lives.
@@ -20,16 +20,10 @@
 <h3 align="left">📬 Reach me at</h3>
 <p><code><a href="https://www.linkedin.com/in/petercoker/" title="LinkedIn Profile"><img width="22" src="https://i.imgur.com/yRpa1dQ.png"> LinkedIn</a></code></p>
 
-
-## 📊 Stats
-
+<h3 align="left">📊 Stats</h3>
 <div align="center" display=block>
 <img  height="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /> 
 </div>
-
-|<img  height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=petercoker&show_icons=true&locale=en" alt="petercoker" /> |  <img  height="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 
 ## 🎁 Support
 <p>If you like what I do, maybe consider buying me a book/coffee/tea 🥺👉👈</p>
