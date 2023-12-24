@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Github Follow](https://img.shields.io/github/followers/PeterCoker?label=Follow%20Me&style=social)](https://github.com/PeterCoker)
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/petercoker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
