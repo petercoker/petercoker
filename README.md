@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on any project that solves a real-world problem that improves people's lives.
 - 🤔 I’m looking for help with improving my craft as a Developer
 - 💬 Ask me about anything
-- 📫 How to reach me: <a href="[https://www.linkedin.com/in/petercoker/](https://www.linkedin.com/in/petercoker/)" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
+- 📫 How to reach me: <a href="[https://www.linkedin.com/in/petercoker/](https://www.linkedin.com/in/petercoker/)" title="LinkedIn Profile">LinkedIn</a>
 - ⚡ Fun fact: I love traveling to different countries and experiencing their cultures and festivals. Language learning is another passion of mine, and I am currently learning Spanish.
 
 
