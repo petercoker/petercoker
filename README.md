@@ -4,6 +4,9 @@
   </a>
 </h1>
 
+<ul>
+  <li>Software engineer, who loves building projects that solve real-world problems that improve people's lives.</li>
+</ul>
 <p align="center">
   Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
   <br>
