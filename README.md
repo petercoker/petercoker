@@ -16,7 +16,6 @@
 ### Feel free to contact me on:
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/petercoker/" title="LinkedIn Profile"><img width="22" src="https://i.imgur.com/yRpa1dQ.png"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/petercokersays" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
 If you like what I do, maybe consider buying me a book/coffee/tea 🥺👉👈
