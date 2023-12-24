@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Peter+Coker....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 [![Github Follow](https://img.shields.io/github/followers/PeterCoker?label=Follow%20Me&style=social)](https://github.com/PeterCoker)
 
