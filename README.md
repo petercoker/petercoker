@@ -21,11 +21,11 @@
 <p><code><a href="https://www.linkedin.com/in/petercoker/" title="LinkedIn Profile"><img width="22px" src="https://i.imgur.com/yRpa1dQ.png"> LinkedIn</a></code></p>
 
 <h3 align="left">📊 Stats</h3>
-<div align="center" display=block>
+<div align="center">
 <img  height="300" width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /> 
 </div>
 
-## 🎁 Support
+<h3 align="left">🎁 Supports</h3>
 <p>If you like what I do, maybe consider buying me a book/coffee/tea 🥺👉👈</p>
 <h2 align="center">
  <a href="https://www.buymeacoffee.com/petercoker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" max-width="20" ></a>
