@@ -17,8 +17,11 @@
 
 ## 📊 Stats
 
-| <a href="https://github.com/petercoker"><img align="center" src="https://github-readme-stats-petercoker.vercel.app/api?username=petercoker&hide=stars&count_private=true&show_icons=true&include_all_commits=true&title_color=6366f1&text_color=818cf8&icon_color=818cf8&hide_border=true" alt="Dylan's github stats" /></a> | <a href="https://github.com/petercoker"><img align="center" src="https://github-readme-stats-petercoker.vercel.app/api/top-langs/?username=petercoker&layout=compact&theme=graywhite&hide_border=true&exclude_repo=VRShooter,Polyball,visual-studio-shortcuts,csharp-the-complete-guide,understanding-dotnet-webapi-using-postman,datadog-performance-monitoring-tool,dotnet-core-appsettings-from-start-to-finish,csharp-practice-projects,csharp-mastercourse,web-api-from-start-to-finish,understanding-dotnet-webapi-using-postman-v2,resolveo-api-old,Y4-IT-Final-Project,Y3-IT-Final-Project" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=petercoker&show_icons=true&locale=en" alt="petercoker" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petercoker&" alt="petercoker" /></p>
 
 ## 🎁 Support
 If you like what I do, maybe consider buying me a book/coffee/tea 🥺👉👈
