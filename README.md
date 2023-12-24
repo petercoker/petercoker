@@ -18,9 +18,8 @@
 <p align="center"><img  height="300"  src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /> </p>
 
 
-<h3 align="left">🎁 Supports</h3>
-<p>If you like what I do</p>
+<h3 align="left">🎁 Show support</h3>
 <h2 align="center">
- <a href="https://www.buymeacoffee.com/petercoker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="10"></a>
+ <a href="https://www.buymeacoffee.com/petercoker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="100"></a>
  <a href="https://ko-fi.com/petercoker"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"  alt="petercoker" /></a>
 </h2>
