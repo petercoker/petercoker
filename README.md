@@ -17,8 +17,8 @@
 
 ## 📊 Stats
 
-|<img  height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=petercoker&show_icons=true&locale=en" alt="petercoker" /> |  <img  height="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<img  height="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /> 
+
 
 ## 🎁 Support
 If you like what I do, maybe consider buying me a book/coffee/tea 🥺👉👈
