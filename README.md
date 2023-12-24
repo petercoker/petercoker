@@ -17,7 +17,7 @@
 
 ## 📊 Stats
 
-|<img  height="100" width="150" align="center" src="https://github-readme-stats.vercel.app/api?username=petercoker&show_icons=true&locale=en" alt="petercoker" /> |  <img  height="100" width="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /> |
+|<img  height="100" align="center" src="https://github-readme-stats.vercel.app/api?username=petercoker&show_icons=true&locale=en" alt="petercoker" /> |  <img  height="100" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## 🎁 Support
