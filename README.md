@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-### About me
+## 👨‍💻 About
 
 * 🎨 Software engineer, who loves building projects that solve real-world problems that improve people's lives.
 
