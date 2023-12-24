@@ -4,16 +4,15 @@
   </a>
 </h1>
 
-- 🔭 I’m currently working on a Google Task Extension for Chrome
-- 🌱 I’m currently learning React and AWS CDK
-- 👯 I’m looking to collaborate on any project that solves a real-world problem that improves people's lives.
-- 🤔 I’m looking for help with improving my craft as a Developer
-- 💬 Ask me about anything
-- 📫 How to reach me: <a href="[https://www.linkedin.com/in/petercoker/](https://www.linkedin.com/in/petercoker/)" title="LinkedIn Profile">LinkedIn</a>
-- ⚡ Fun fact: I love traveling to different countries and experiencing their cultures and festivals. Language learning is another passion of mine, and I am currently learning Spanish.
+### About me
 
+* 🎨 Software engineer, who loves solving real-world problems that improve people's lives
 
-[![Github Follow](https://img.shields.io/github/followers/PeterCoker?label=Follow%20Me&style=social)](https://github.com/PeterCoker)
+* 🎁 Open source enthusiast. Thanks to all the open-source contributors!
+
+* 🔥 I really love the thrill of making what I want possible!
+  
+* Fun fact: I love traveling to different countries and experiencing their cultures and festivals. Language learning is another passion of mine, and I am currently learning Spanish.
 
 
 If you like what I do, maybe consider buying me a book/coffee/tea 🥺👉👈
