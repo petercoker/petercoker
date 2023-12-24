@@ -14,7 +14,7 @@
 
 
 ### Feel free to contact me on:
-<h5 align="center">
+<h5 align="left">
   <code><a href="https://www.linkedin.com/in/petercoker/" title="LinkedIn Profile"><img width="22" src="https://i.imgur.com/yRpa1dQ.png"> LinkedIn</a></code>
 </h5>
 
