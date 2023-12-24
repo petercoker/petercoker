@@ -9,11 +9,15 @@
 * 🎨 Software engineer, who loves solving real-world problems that improve people's lives
 
 * 🎁 Open source enthusiast. Thanks to all the open-source contributors!
-
-* 🔥 I really love the thrill of making what I want possible!
   
 * Fun fact: I love traveling to different countries and experiencing their cultures and festivals. Language learning is another passion of mine, and I am currently learning Spanish.
 
+
+### Feel free to contact me on:
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/petercoker/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/petercokersays" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
 
 If you like what I do, maybe consider buying me a book/coffee/tea 🥺👉👈
 
