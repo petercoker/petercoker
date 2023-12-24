@@ -21,9 +21,7 @@
 <p><code><a href="https://www.linkedin.com/in/petercoker/" title="LinkedIn Profile"><img width="22px" src="https://i.imgur.com/yRpa1dQ.png"> LinkedIn</a></code></p>
 
 <h3 align="left">📊 Stats</h3>
-<div align="center">
 <img  height="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /> 
-</div>
 
 <h3 align="left">🎁 Supports</h3>
 <p>If you like what I do, maybe consider buying me a book/coffee/tea 🥺👉👈</p>
