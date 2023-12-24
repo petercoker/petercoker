@@ -6,11 +6,11 @@
 
 ### About me
 
-* 🎨 Software engineer, who loves solving real-world problems that improve people's lives
+* 🎨 Software engineer, who loves solving real-world problems that improve people's lives.
 
 * 🎁 Open source enthusiast. Thanks to all the open-source contributors!
   
-* Fun fact: I love traveling to different countries and experiencing their cultures and festivals. Language learning is another passion of mine, and I am currently learning Spanish.
+* ❤️ I love traveling to different countries and experiencing their cultures and festivals. Language learning is another passion of mine, and I am currently learning Spanish.
 
 
 ### Feel free to contact me on:
