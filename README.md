@@ -4,13 +4,18 @@
   </a>
 </h1>
 
-## 👨‍💻 About Me
-
-* Software engineer, who loves building projects that solve real-world problems that improve people's lives.
-
-* Open source enthusiast. Thanks to all the open-source contributors!
-  
-* I love traveling to experience different cultures and festivals. Language learning is another passion of mine, and I am currently learning Spanish.
+<h3 align="left">👨‍💻 About Me:</h3>
+<ul>
+  <li>
+    Software engineer, who loves building projects that solve real-world problems that improve people's lives.
+  </li>
+  <li>
+    Open source enthusiast. Thanks to all the open-source contributors!
+  </li>
+  <li>
+    I love traveling to experience different cultures and festivals. Language learning is another passion of mine, and I am currently learning Spanish.
+  </li>
+</ul>
 
 ## 📬 Reach me at
 <code><a href="https://www.linkedin.com/in/petercoker/" title="LinkedIn Profile"><img width="22" src="https://i.imgur.com/yRpa1dQ.png"> LinkedIn</a></code>
@@ -20,6 +25,9 @@
 <div align="center" display=block>
 <img  height="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /> 
 </div>
+
+|<img  height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=petercoker&show_icons=true&locale=en" alt="petercoker" /> |  <img  height="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 ## 🎁 Support
