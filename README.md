@@ -6,7 +6,7 @@
 
 <h3 align="left">👨‍💻 About Me:</h3>
 <ul>
-  <li>Software engineer, who loves building projects that solve real-world problems that improve people's lives.</li>
+  <li>A passionate Software engineer, who loves building projects that solve real-world problems that improve people's lives.</li>
   <li>Open source enthusiast. Thanks to all the open-source contributors!</li>
   <li>I love traveling to experience different cultures and festivals. Language learning is another passion of mine.</li>
 </ul>
