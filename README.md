@@ -20,7 +20,7 @@
 <h3 align="left">📊 Stats</h3>
 <p align="center"><img  height="300"  src="https://github-readme-stats.vercel.app/api/top-langs?username=petercoker&show_icons=true&locale=en&layout=compact" alt="petercoker" /> </p>
 <br/>
-<h3 align="left">🎁 Show support</h3>
+<h3 align="left">🎁 Support me either on</h3>
 <h2 align="center">
  <a href="https://www.buymeacoffee.com/petercoker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="300"></a>
  <a href="https://ko-fi.com/petercoker"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"  alt="petercoker" width="300" /></a>
