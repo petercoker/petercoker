@@ -7,10 +7,8 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
   * A passionate Software engineer, who loves building projects that solve real-world problems that improve people's lives.
-  
-  * Open source enthusiast. Thanks to all the open-source contributors!
 
-  * I am an advocate for utilizing the most suitable tools for each project, and I am not exclusively committed to any single programming language or framework.
+  * I am an advocate for utilizing the most suitable tools for each project, and I am not exclusively committed any tech stack.
     
   * I love traveling to experience different cultures and festivals. Language learning is another passion of mine.
 
