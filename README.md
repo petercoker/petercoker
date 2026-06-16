@@ -6,7 +6,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-  * A passionate Senior Software Engineer, who loves building projects that solve real-world problems that improve people's lives.
+  * A passionate Software Engineer, who loves building projects that solve real-world problems that improve people's lives.
 
   * I am an advocate for utilizing the most suitable tools for each project, and I am not exclusively committed any tech stack.
     
