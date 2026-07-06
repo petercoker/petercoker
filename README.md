@@ -6,11 +6,11 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-  * A passionate Software Engineer, who loves building tools that solve real-world problems that improve people's lives.
+  * A passionate Software Engineer who loves building reliable software that solves real-world business problems.
 
   * I am an advocate for utilizing the most suitable tools for each project, and I am not exclusively committed any tech stack.
     
-  * I love traveling to experience different cultures and festivals. Language learning is another passion of mine.
+  * I love traveling to experience different cultures, festivals and food. Language learning is another passion of mine.
 
 <h3 align="left">📬 Reach me at</h3>
 <p><code><a href="https://www.linkedin.com/in/petercoker" title="LinkedIn Profile"><img width="30" src="https://i.imgur.com/yRpa1dQ.png"> LinkedIn</a></code></p>
